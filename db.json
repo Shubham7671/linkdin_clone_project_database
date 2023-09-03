@@ -1,0 +1,116 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Shubham Kumar",
+            "email": "sk767196@gmail.com",
+            "password": 12345,
+            "mobile": 8294587204,
+            "image": "https://media.licdn.com/dms/image/D4D03AQF51LjCrqyu6g/profile-displayphoto-shrink_400_400/0/1678561905628?e=1699488000&v=beta&t=hVc8tE7o8YBHNlL6Nhes2cGCOkGmP5qSnc6JOTRhZj0",
+            "coverImage": "https://media.licdn.com/dms/image/D4D16AQFXsYU31O5Q-Q/profile-displaybackgroundimage-shrink_350_1400/0/1678562155403?e=1699488000&v=beta&t=sdA1uov_6V9DHaWnJYFBlLoqhCCOXK_MgSd9bXKa_7Y",
+            "coverTitle": "Frontend Developer || JAVA || HTML || CSS || JAVASCRIPT || SQL || BOOTSTRAP || TAILWIND CSS || REACT || NEXT JS || REDUX || GIT",
+            "additonalInfo": {
+                "location": "Mohali district, Punjab, India",
+                "industry": "",
+                "about": "Web developer with a passion for creating innovative and user-friendly websites and web applications. Skilled in front-end and back-end development, with expertise in HTML, CSS, JavaScript, and Java. Proficient in popular frameworks like React, and experienced in working with databases such as MongoDB. Committed to delivering high-quality code and optimizing website performance. Successfully completed projects, including e-commerce platforms, content management systems, and responsive web designs. Recognized for collaborating effectively in cross-functional teams and meeting project deadlines. Eager to tackle new challenges and contribute to cutting-edge web development projects.",
+                "college": "Chandigarh University",
+                "topSkills": "Data Structures • JavaScript • React.js • Problem Solving • Web Development",
+                "ex1": "",
+                "ex2": ""
+            },
+            "posts": [],
+            "following": [],
+            "groups": [],
+            "jobs": [],
+            "message": [],
+            "education": [
+                {
+                    "schoolName": "Chandigarh University",
+                    "degree": "Master in Computer Application-Mca",
+                    "field": "Computer Application",
+                    "startDate": "08-2019",
+                    "endDate": "08-2022",
+                    "description": "sabhjcbsjh jsajlask sjdajkldbldjk hidsjkldajk dajkldb hidabdljs hidbdab",
+                    "grade": "8.0"
+                },
+                {
+                    "schoolName": "Bokaro Steel City College",
+                    "degree": "Bechlor in Computer Application",
+                    "field": "Computer Application",
+                    "startDate": "08-2022",
+                    "endDate": "08-2024",
+                    "description": "bicbjsdlbc kncn;ksc knene;kncoi oiidjmsoiafi",
+                    "grade": "7.5"
+                }
+            ],
+            "certification": [
+                {
+                    "role": "ESG Program ",
+                    "company": "Tcs Tata Consultancy Service",
+                    "field": "",
+                    "startDate": "08-2022",
+                    "description": "",
+                    "url": "https://shubhamCertifaction/12345/cjcgvhjvvhj2/22"
+                }
+            ],
+            "projects": [
+                {
+                    "name": "Movie Booking Site",
+                    "startDate": "04-2023",
+                    "endDate": "04-2023",
+                    "description": "",
+                    "skills": [
+                        "html",
+                        "css",
+                        "javascript",
+                        "Api"
+                    ],
+                    "url": "https://shubhamCertifaction/12345/cjcgvhjvvhj2/22/5115153"
+                },
+                {
+                    "name": "Math Problem Solver",
+                    "startDate": "07-2022",
+                    "endDate": "07-2022",
+                    "description": "",
+                    "skills": [
+                        "html",
+                        "css",
+                        "javascript",
+                        "Api"
+                    ],
+                    "url": "https://shubhamCertifaction/12345/cjcgvhjvvhj2/22/5115153"
+                }
+            ],
+            "experience": [
+                {
+                    "role": "",
+                    "company": "",
+                    "field": "",
+                    "startDate": "",
+                    "endDate": "",
+                    "description": "",
+                    "url": ""
+                }
+            ],
+            "skills": [
+                "HTML",
+                "Css",
+                "JavaScript",
+                "Java",
+                "Data Structur",
+                "Git",
+                "React js",
+                "Redux",
+                "Bootstrap",
+                "telwind",
+                "Api"
+            ],
+            "sampleArr1": [],
+            "sampleArr2": [],
+            "sampleObj1": {},
+            "sampleObj": {},
+            "sample1": "",
+            "sample2": ""
+        }
+    ]
+}
