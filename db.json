@@ -105,5 +105,168 @@
             ],
             "notification": [],
         }
-    ]
+    ],
+     "jobs": [
+        
+            {
+                "role": "Mobile App Developer",
+                "Company": "Amazon",
+                "Location": "New York City, New York, USA (Remote)",
+                "image": "https://clipartcraft.com/images/amazon-logo-transparent-icon-3.png",
+                "date": "2 days ago",
+                "mode": "Remote"
+            },
+            {
+                "role": "Database Administrator",
+                "Company": "Apple",
+                "Location": "Austin, Texas, USA (On-site)",
+                "image": "https://cdn2.hubspot.net/hubfs/4408313/Imported_Blog_Media/Apple_logo_black.png",
+                "date": "3 weeks ago",
+                "mode": "On-site"
+            },
+            {
+                "role": "UI/UX Designer",
+                "Company": "Netflix",
+                "Location": "San Jose, California, USA (Hybrid)",
+                "image": "https://i0.wp.com/www.games-geeks.fr/wp-content/uploads/2018/08/logo-netflix.jpg?fit=1856%2C1280&ssl=1",
+                "date": "4 weeks ago",
+                "mode": "Hybrid"
+            },
+            {
+                "role": "Data Analyst",
+                "Company": "Amazon",
+                "Location": "Chicago, Illinois, USA (Remote)",
+                "image": "https://clipartcraft.com/images/amazon-logo-transparent-icon-3.png",
+                "date": "1 month ago",
+                "mode": "Remote"
+            },
+            {
+                "role": "Security Engineer",
+                "Company": "Uber",
+                "Location": "Dallas, Texas, USA (On-site)",
+                "image": "https://logospng.org/download/uber/logo-uber-preta-4096.png",
+                "date": "2 months ago",
+                "mode": "On-site"
+            },
+            {
+                "role": "DevOps Specialist",
+                "Company": "Airbnb",
+                "Location": "Toronto, Ontario, Canada (Remote)",
+                "image": "https://npr.brightspotcdn.com/dims4/default/480b2ad/2147483647/strip/true/crop/329x329+0+0/resize/1760x1760!/quality/90/?url=http:%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwbfo%2Ffiles%2F201808%2Fairbnb-logo-png-logo-black-transparent-airbnb-329.png",
+                "date": "2 months ago",
+                "mode": "Remote"
+            },
+            {
+                "role": "Software Architect",
+                "Company": "Twitter",
+                "Location": "Los Angeles, California, USA (On-site)",
+                "image": "https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png",
+                "date": "3 months ago",
+                "mode": "On-site"
+            },
+            {
+                "role": "Cloud Engineer",
+                "Company": "Facebook",
+                "Location": "Seattle, Washington, USA (Remote)",
+                "image": "https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png",
+                "date": "4 months ago",
+                "mode": "Remote"
+            },
+            {
+                "role": "AI/ML Researcher",
+                "Company": "Amazon",
+                "Location": "San Francisco, California, USA (Hybrid)",
+                "image": "https://clipartcraft.com/images/amazon-logo-transparent-icon-3.png",
+                "date": "5 months ago",
+                "mode": "Hybrid"
+            },
+            {
+                "role": "Database Developer",
+                "Company": "Amazon",
+                "Location": "London, United Kingdom (Remote)",
+                "image": "https://clipartcraft.com/images/amazon-logo-transparent-icon-3.png",
+                "date": "6 months ago",
+                "mode": "Remote"
+            },    {
+                "role": "Frontend Developer",
+                "Company": "IBM",
+                "Location": "Bengaluru East, Karnataka, India (On-site)",
+                "image": "https://purepng.com/public/uploads/large/purepng.com-ibm-logologobrand-logoiconslogos-251519939176ka7y8.png",
+                "date": "1 week ago",
+                "mode": "On-site"
+            },
+            {
+                "role": "Backend Developer",
+                "Company": "Google",
+                "Location": "Mountain View, California, USA (Remote)",
+                "image": "http://pluspng.com/img-png/google-logo-png-open-2000.png",
+                "date": "2 weeks ago",
+                "mode": "Remote"
+            },
+            {
+                "role": "Data Scientist",
+                "Company": "Microsoft",
+                "Location": "Redmond, Washington, USA (On-site)",
+                "image": "http://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png",
+                "date": "3 weeks ago",
+                "mode": "On-site"
+            },
+            {
+                "role": "UX Designer",
+                "Company": "Apple",
+                "Location": "Cupertino, California, USA (Hybrid)",
+                "image": "https://cdn2.hubspot.net/hubfs/4408313/Imported_Blog_Media/Apple_logo_black.png",
+                "date": "4 weeks ago",
+                "mode": "Hybrid"
+            },
+            {
+                "role": "Software Engineer",
+                "Company": "Amazon",
+                "Location": "Seattle, Washington, USA (On-site)",
+                "image": "https://clipartcraft.com/images/amazon-logo-transparent-icon-3.png",
+                "date": "5 weeks ago",
+                "mode": "On-site"
+            },
+            {
+                "role": "Product Manager",
+                "Company": "Facebook",
+                "Location": "Menlo Park, California, USA (Remote)",
+                "image": "https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png",
+                "date": "6 weeks ago",
+                "mode": "Remote"
+            },
+            {
+                "role": "UI Developer",
+                "Company": "Netflix",
+                "Location": "Los Gatos, California, USA (On-site)",
+                "image": "https://i0.wp.com/www.games-geeks.fr/wp-content/uploads/2018/08/logo-netflix.jpg?fit=1856%2C1280&ssl=1",
+                "date": "7 weeks ago",
+                "mode": "On-site"
+            },
+            {
+                "role": "DevOps Engineer",
+                "Company": "Twitter",
+                "Location": "San Francisco, California, USA (Hybrid)",
+                "image": "https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png",
+                "date": "8 weeks ago",
+                "mode": "Hybrid"
+            },
+            {
+                "role": "QA Engineer",
+                "Company": "Uber",
+                "Location": "San Francisco, California, USA (Remote)",
+                "image": "https://logospng.org/download/uber/logo-uber-preta-4096.png",
+                "date": "9 weeks ago",
+                "mode": "Remote"
+            },
+            {
+                "role": "Full Stack Developer",
+                "Company": "Airbnb",
+                "Location": "San Francisco, California, USA (On-site)",
+                "image": "https://npr.brightspotcdn.com/dims4/default/480b2ad/2147483647/strip/true/crop/329x329+0+0/resize/1760x1760!/quality/90/?url=http:%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwbfo%2Ffiles%2F201808%2Fairbnb-logo-png-logo-black-transparent-airbnb-329.png",
+                "date": "10 weeks ago",
+                "mode": "On-site"
+            }
+        
+        ]
 }
