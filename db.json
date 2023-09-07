@@ -14,9 +14,7 @@
                 "industry": "",
                 "about": "Web developer with a passion for creating innovative and user-friendly websites and web applications. Skilled in front-end and back-end development, with expertise in HTML, CSS, JavaScript, and Java. Proficient in popular frameworks like React, and experienced in working with databases such as MongoDB. Committed to delivering high-quality code and optimizing website performance. Successfully completed projects, including e-commerce platforms, content management systems, and responsive web designs. Recognized for collaborating effectively in cross-functional teams and meeting project deadlines. Eager to tackle new challenges and contribute to cutting-edge web development projects.",
                 "college": "Chandigarh University",
-                "topSkills": "Data Structures • JavaScript • React.js • Problem Solving • Web Development",
-                "ex1": "",
-                "ex2": ""
+                "topSkills": "Data Structures • JavaScript • React.js • Problem Solving • Web Development"
             },
             "posts": [],
             "following": [],
@@ -35,7 +33,7 @@
                 },
                 {
                     "schoolName": "Bokaro Steel City College",
-                    "degree": "Bechlor in Computer Application",
+                    "degree": "Bachelor in Computer Application",
                     "field": "Computer Application",
                     "startDate": "08-2022",
                     "endDate": "08-2024",
@@ -105,12 +103,7 @@
                 "telwind",
                 "Api"
             ],
-            "sampleArr1": [],
-            "sampleArr2": [],
-            "sampleObj1": {},
-            "sampleObj": {},
-            "sample1": "",
-            "sample2": ""
+            "notification": [],
         }
     ]
 }
